@@ -35,8 +35,8 @@ for name in onlyfiles:
         except Exception:
             continue
         print('done',name)
-while True:
-    a = 1
+# while True:
+#   a = 1
     
     
 
