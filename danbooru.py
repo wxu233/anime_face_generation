@@ -26,5 +26,5 @@ for p in range(0,72): #pages in Danbooru
         with open('img1/'+imgname, 'wb') as f:
             f.write(t.content)
 
-while True:
-    a = 1
+# while True:
+#    a = 1
