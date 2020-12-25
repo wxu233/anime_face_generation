@@ -2,7 +2,7 @@
 
 Contributors: Wentao Xu, Youyou Zhao, Roy Wang
 
-The aim is to build a DCGAN to generate high quality anime faces. 
+The aim is to build a DCGAN (template from: https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html?highlight=dcgan) to generate high quality anime faces. 
 
 We used danbooru.py to scrap our dataset from the Danbooru website. 
 
